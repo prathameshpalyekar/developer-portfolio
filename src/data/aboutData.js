@@ -1,6 +1,14 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+  title: "Profile Summary",
+  image: 1,
+  description: [
+    "Result-oriented professional with over 9 years of extensive experience in designing and implementing scalable web applications in both front-end and back-end technologies within the software development industry.",
+    "Domain Expertise: Financial Data & Marketing Analysis, Marketing Automation, Digital agency, Online real estate, Sales Enablement & Readiness Platform",
+    "Achieved 57% reduction in frontend code complexity by revamping outdated code bases to modern standards at MindTickle, resulting in improved functionality and operational efficiency.",
+    "Skilled in mentoring and guiding junior developers, facilitating their transition to frontend roles.",
+    "Proven expertise in conducting rigorous software testing and bug bashes, ensuring high- quality project releases.",
+    "Recognized for providing tailored solutions to clients like Wework and Pubnub thus enhancing customer satisfaction.",
+    "Committed to continuous learning and staying updated with the latest trends in software development.",
+    "Proficient in leveraging a diverse skill set encompassing ReactJS, SCSS, JavaScript, React- relay, GraphQL, and Jest to develop cutting-edge web applications with enhanced user experiences and performance.",
+  ]
 }

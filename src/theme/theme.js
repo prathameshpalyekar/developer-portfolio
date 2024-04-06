@@ -353,3 +353,25 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+export const customThemeDark = {
+    type: 'dark',
+    primary: '#937b4a',
+    primary400: '#ff764d',
+    primary600: '#fa5624',
+    primary80: '#937b4acc',
+    primary50: '#937b4a80',
+    primary30: '#937b4a4d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: bwThemeboy,
+    aboutimg2: orangeThemegirl,
+    eduimg: eduOrange,
+    expimg: expOrange,
+    contactsimg: contactsOrange
+}
+
